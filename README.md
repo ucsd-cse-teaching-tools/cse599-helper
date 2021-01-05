@@ -27,7 +27,7 @@ I have outlined my experience and all the helpful advice that I have received fr
 - Release a document on canvas with the names of the Mentor TAs with a list of the students assigned to their group. Send out an email to all students announcing the same.
 
 #### 3. Deciding a time for and setting up the Practicum meetings for every group
-- Use when2meet and use Pacific Time to allow for consistency.
+- Use [When2meet](https://when2meet.com) and use Pacific Time to allow for consistency.
 - (remote teaching) create recurring Zoom meetings on the decided time, making the Mentor TA for that group the co-host of that meeting.
 
 #### 4. Timely reminders about upcoming deadlines and synchronous meetings
