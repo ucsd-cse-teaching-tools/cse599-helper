@@ -29,9 +29,21 @@ I have outlined my experience and all the helpful advice that I have received fr
 #### 3. Deciding a time for and setting up the Practicum meetings for every group
 - Use [When2meet](https://when2meet.com) and use Pacific Time to allow for consistency.
 - (remote teaching) create recurring Zoom meetings on the decided time, making the Mentor TA for that group the co-host of that meeting.
+  - set a weekly recurrence and end after N occurrences, where N is week number of the quarter when the last meeting is to be hosted
+  - set 'Registration' to 'Required' and select 'Attendees register once and can attend any of the occurrences'. This ensures that the attendees are registered, and allows for       recording attendance based on Zoom-registered UCSD email.
+  - make the Mentor TA of that group the co-host of the meeting
+  - Save the meeting, then open it from My Meetings. Show all occurrences, then delete the occurrences when there is to be no Practicum meeting.
 
 #### 4. Timely reminders about upcoming deadlines and synchronous meetings
 - Use the 'Schedule Send' option to schedule an email to all the students who are to be included for the synchronous meeting or who are yet to meet the deadline for submitting their work.
   - Monday morning 8 am PST emails
   - Quick reminders 15 minutes before the decided time of the synchronous meeting
 - Can prove helpful to do so before every synchronous discussion and practicum meeting, and the observation reflection deadline
+
+#### 5. Managing attendance for all synchronous components*
+- Create Gradescope templated assignments for each synchronous meeting for which attendance is to be tracked.
+- Use the script **attendance/gen_pdf.py** with **GENERATE_TEMPLATE = True** to get the Outline to upload for the assignment.
+- Align the boxes for PID and Name in front of the respective fields in the template.
+
+- When a session is over, get the list of the participants from Zoom -> Reports -> Usage -> <MeetingName> -> click on number of participants. Do not toggle 'Show unique users' since it has been known to ignore some unique users too.
+- Download the list and threshold the duration according to the decided time 
