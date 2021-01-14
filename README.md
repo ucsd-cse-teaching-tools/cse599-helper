@@ -71,7 +71,7 @@ I have outlined my experience and all the helpful advice that I have received fr
 - Use the script in **progress report/gen_progrep.py** to generate a template and create an instructor-uploaded, templated submission assignment on Gradescope using the template   as an outline.
 - Modify the script to include all components of the class that are in the CSV. Create conditions on them and the corresponding feedback to give to the students based on the       outcome of those conditions
 - Run the script and upload the generated progress report PDF to the assignment on Gradescope that we just previously created.
-- Follow the steps in **5** to publish the assignment
+- Follow the steps in **5** to publish the grades
 
 #### 9. Grading Observation Reflection Assignment
 - Review each submitted report on Gradescope, watch the uploaded videos for each, and leave encouraging and constructive feedback!
