@@ -2,15 +2,21 @@ This is a set of useful scripts and workflows for TAing CSE 599 Teaching Methods
 
 The following are some of the regular tasks that I am responsible for:
 
-1) Mentor TA recruitment
-2) Assigning students to mentors
-3) Deciding a time for and setting up the Practicum meetings for every group
-4) Timely reminders about upcoming deadlines and synchronous meetings
-5) Managing attendance for all synchronous components*
-6) Grading make-up work for missed attendance
-7) Managing Weekly Time Log + Reflection assignments
-8) Tracking student progress and generating reports*
-9) Grading the Observation Reflection assignment
+1) Mentor TA recruitment [Before quarter]
+2) Assigning students to mentors [Week 1]
+3) Deciding a time for and setting up the Practicum meetings for every group [Week 1]
+4) Timely reminders about upcoming deadlines and synchronous meetings [ongoing]
+5) Managing attendance for all synchronous components* [ongoing]
+6) Grading make-up work for missed attendance [ongoing]
+7) Managing Weekly Time Log + Reflection assignments 
+    (a) Creating in Gradescope [Before quarter]
+    (b) Spotting students of concern [ongoing]
+    (c) Responding to student comments in victory / challenge questions [ongoing]
+    (d) Collating student comments in open-ended questions and relaying to instructor each week [ongoing]
+9) Tracking student progress and generating reports* [ongoing, esp. before Week 6 milestone]
+10) Grading the Observation Reflection assignment [ongoing / end of quarter]
+11) Grading the Teaching Resource Video [ongoing / end of quarter]
+12) Grading the Scholarly Teaching Topic Quick Response assignments [ongoing /end of quarter]
 
 *script in repo
 
