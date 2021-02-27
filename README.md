@@ -74,6 +74,7 @@ I have outlined my experience and all the helpful advice that I have received fr
 
 #### 8. Tracking student progress and generating reports*
 - Create a CSV with student PID, last name, first name, email, and then a column each for every assignment and synchronous session for which attendance is to be tracked.
+- You may find Gradescope CSE 599 -> Assignments -> Download Grades helpful in filling up the above CSV with truth values.
 - Use the script in **progress report/gen_progrep.py** to generate a template and create an instructor-uploaded, templated submission assignment on Gradescope using the template   as an outline.
 - Modify the script to include all components of the class that are in the CSV. Create conditions on them and the corresponding feedback to give to the students based on the       outcome of those conditions
 - Run the script and upload the generated progress report PDF to the assignment on Gradescope that we just previously created.
