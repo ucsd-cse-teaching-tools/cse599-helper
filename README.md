@@ -29,7 +29,7 @@ I have outlined my experience and all the helpful advice that I have received fr
 
 #### 2. Assigning students to mentors
 - Can generate groups of students in parallel with Mentor TA recruitment. 
--- Try to group people working on similar classes (e.g. introductory programming classes together, theoretical classes together, large project classes together)
+-- Try to group people working on similar classes (e.g. introductory programming classes together, theoretical classes together, large project classes together). For class description: class number <= 100 indicates Lower Division. Among Lower Division classes, all except CSE 20 , CSE 21 are programming intensive. Undergraduate theory classes are CSE 20, CSE 21, CSE 101, CSE 105. Upper division undergraduate classes are the remaining course numbers between 100 and 199. For both Graduate and Undergraduate classes, the second digit reflect the sub-discipline of CSE: x0y is Theory, x1y is Software Engineering, x2y is Systems/Networking, x3y is PL/Compilers, x4y is Hardware/Architecture, x5y is AI/ML, x6y is Vision/Graphics, x7y is HCI/Robotics, x8y is Bioinformatics, x9y is Special Studies Courses.
 -- Try to avoid having people who are TAing the *same* class in the same group
 -- If possible, groups should have 0 or at least 2 members from minoritized identities
 - Preferable to do so by matching the courses that the students are TAing, and the courses that the Mentors have experience TAing.
