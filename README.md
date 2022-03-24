@@ -28,6 +28,10 @@ I have outlined my experience and all the helpful advice that I have received fr
 - It can also be helpful to keep track of those students that get back refusing the offer for the current quarter but show interest in a similar opportunity in the coming quarters.
 
 #### 2. Assigning students to mentors
+- Can generate groups of students in parallel with Mentor TA recruitment. 
+-- Try to group people working on similar classes (e.g. introductory programming classes together, theoretical classes together, large project classes together)
+-- Try to avoid having people who are TAing the *same* class in the same group
+-- If possible, groups should have 0 or at least 2 members from minoritized identities
 - Preferable to do so by matching the courses that the students are TAing, and the courses that the Mentors have experience TAing.
 - Try to ensure an equal number of students per group
 - Release a document on canvas with the names of the Mentor TAs with a list of the students assigned to their group. Send out an email to all students announcing the same.
